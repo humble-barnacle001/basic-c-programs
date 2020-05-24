@@ -18,5 +18,5 @@ int main()
 		i++;
 	}
 	printf("\nTotal (Aggregate) marks: %d\n",t);
-	printf("Percentage marks: %0.2f%%%\n\n",(t/5.0));
+	printf("Percentage marks: %0.2f\n\n",(t/5.0));
 }
